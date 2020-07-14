@@ -1,0 +1,15 @@
+img{
+	height: 250px;
+	width: 250px;
+	background-image: initial;
+}
+#content{ 
+	color: red;
+	font-family: all;
+	font-size:20px;
+	background-color: #00FFFF;
+	height: 125px;
+	width: 280px;
+	margin: 10px auto;
+	padding: 2px;
+}
